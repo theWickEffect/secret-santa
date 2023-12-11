@@ -1,11 +1,11 @@
 {
-  "Roy": "Lynnea",
-  "Shelby": "Joel",
-  "Nathan": "Eric",
-  "Daniella": "Nathan",
+  "Roy": "Joel",
+  "Shelby": "Daryl",
+  "Nathan": "Lynnea",
+  "Daniella": "Shelby",
   "Eric": "Lilah",
-  "Joel": "Daniella",
-  "Lynnea": "Daryl",
-  "Daryl": "Shelby",
-  "Lilah": "Roy"
+  "Joel": "Nathan",
+  "Lynnea": "Roy",
+  "Daryl": "Eric",
+  "Lilah": "Daniella"
 }
