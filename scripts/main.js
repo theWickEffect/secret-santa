@@ -1,5 +1,5 @@
 
-const names = ["Joel","Lynnea","Lilah","Daryl","Daniella","Eric","Roy","Nathan","Shelby"];
+const names = ["Joel","Lynnea","Lilah","Daryl","Daniela","Eric","Roy","Nathan","Shelby"];
 
 async function fetchData() {
     try {
